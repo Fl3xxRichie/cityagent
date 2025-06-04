@@ -27,10 +27,9 @@ Follow these steps to set up and run the Comprehensive City Agent on your local 
 If you haven't already, clone this repository to your local machine:
 
 ```bash
-git clone [repository_url]
+git clone https://github.com/Fl3xxRichie/cityagent.git
 cd multi_tool_agent
 ```
-*(Note: Replace `[repository_url]` with the actual URL of your repository.)*
 
 ### 2. Create a Virtual Environment
 
